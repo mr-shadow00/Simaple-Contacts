@@ -60,6 +60,4 @@ If port 8088 is already taken by something else, change the `published:` value i
 
 Use the "⋯" menu in the app to **Export** a JSON backup any time, or **Import** one back in. Your live data also just sits as a plain file at `data/contacts.json` in the folder you made in step 1, so you can copy it directly from the Files app too.
 
-## Scope, on purpose
 
-No calendars, no tasks, no file storage, no CardDAV/CalDAV — just contacts, per what you asked for. If down the road you want your phone's native Contacts app to sync directly with this server (instead of visiting it in a browser), that needs CardDAV support added, which is a separate, bigger project — happy to help with that later if you want it.
